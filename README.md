@@ -10,11 +10,11 @@
 
 ## 💫 About Me
 
-🚀 **Background:** I am a **Computer Science Student** and a passionate **Software Engineer** dedicated to building innovative technology solutions.
-💻 **Learning Path:** Currently mastering the transition from **C → JavaScript → Go** to strengthen my full-stack capabilities.
-🌱 **Projects:** Actively developing **Web Apps & API Systems** with a focus on clean code and efficiency.
-🎯 **Vision:** My goal is to become a **Professional Software Engineer & Tech Entrepreneur**, creating tools that solve real-world problems.
-⚡ **Interests:** When I'm not coding, I enjoy **anime, gaming**, and exploring the latest tech trends.
+🚀 Background: I am a **Computer Science Student** and a passionate **Software Engineer** dedicated to building innovative technology solutions.
+💻 Learning Path: Currently mastering the transition from **C → JavaScript → Go** to strengthen my full-stack capabilities.
+🌱 Projects: Actively developing **Web Apps & API Systems** with a focus on clean code and efficiency.
+🎯 Vision: My goal is to become a **Professional Software Engineer & Tech Entrepreneur**, creating tools that solve real-world problems.
+⚡ Interests: When I'm not coding, I enjoy gaming , and exploring the latest tech trends.
 
 ---
 
