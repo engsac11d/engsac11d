@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:00566E,100:00F7FF&height=250&section=header&text=Saeed%20Mohamed%20Essa&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Full-Stack%20%7C%20Cloud-Native%20%7C%20Security-Minded%20Engineer&descAlignY=54&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:00566E,100:00F7FF&height=250&section=header&text=Said%20Mohamed%20Issa&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Full-Stack%20%7C%20Cloud-Native%20%7C%20Security-Minded%20Engineer&descAlignY=54&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+CS+Student;Cloud-Native+%26+Container-First+Engineering;C+%E2%86%92+JavaScript%2FTypeScript+%E2%86%92+Go+%E2%86%92+Python;Docker+%2B+Kubernetes+%2B+PostgreSQL+%2B+MongoDB;Open+to+Remote+Opportunities+%F0%9F%8C%8D" />
 
@@ -35,7 +35,7 @@
 | 🌍 **Location** | Somalia 🇸🇴 |
 | 🗣️ **Languages** | Somali · Arabic · English (B2) |
 | 🎯 **Status** | Open to remote work |
-| 🏆 **Certified** | CCNA — Introduction to Networks |
+
 
 </td>
 <td width="50%" valign="top">
@@ -46,7 +46,6 @@
 + Deepening backend fluency: C → JS/TS → Go
 + Orchestrating apps with Kubernetes
 + Balancing PostgreSQL & MongoDB in real projects
-! In progress: Google IT Support cert
 ~ Always reading up on OWASP Top 10
 ```
 
