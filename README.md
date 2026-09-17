@@ -15,26 +15,79 @@
 
 ## 🧭 About Me
 
-```yaml
-whoami:
-  name: "Saeed Mohamed Essa"
-  role: "Full-Stack Developer & Computer Science Student"
-  university: "Jamhuriya University — B.Sc. Computer Science (Expected 2030)"
-  focus: ["Secure-by-design backend systems", "Cloud-native full-stack apps", "API architecture"]
-  currently_learning: ["Node.js (Advanced)", "Go", "Kubernetes", "Linux System Administration"]
-  certifications: ["CCNA: Introduction to Networks — Cisco"]
-  languages_spoken: ["Somali (Native)", "Arabic (Native)", "English (B2)"]
-  languages_coded: ["JavaScript/TypeScript", "Python", "C", "Go"]
-  interests: ["System architecture", "OWASP Top 10", "DevOps & orchestration", "Tech entrepreneurship"]
-  fun_fact: "Believe great software is judged by what breaks it, not just what it builds."
+<div align="center">
+
+> *"Great software isn't judged by what it builds — it's judged by what breaks it."*
+> **I design for the second reading, not just the first demo.**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👤 Quick Facts
+
+| | |
+|---|---|
+| 🎓 **University** | Jamhuriya University |
+| 📘 **Degree** | B.Sc. Computer Science *(Expected 2030)* |
+| 🌍 **Location** | Somalia 🇸🇴 |
+| 🗣️ **Languages** | Somali · Arabic · English (B2) |
+| 🎯 **Status** | Open to remote work |
+| 🏆 **Certified** | CCNA — Introduction to Networks |
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Currently
+
+```diff
++ Deepening backend fluency: C → JS/TS → Go
++ Orchestrating apps with Kubernetes
++ Balancing PostgreSQL & MongoDB in real projects
+! In progress: Google IT Support cert
+~ Always reading up on OWASP Top 10
 ```
 
-- 🚀 **Background:** Full-stack programmer and CS student building end-to-end digital solutions — from database schema to containerized, orchestrated deployment.
-- 🔐 **Security-first mindset:** I write code with OWASP Top 10, JWT auth, bcrypt hashing, and container-hardening fundamentals in mind — not bolted on afterward.
-- 🐳 **Cloud-native by default:** I design services to run in **Docker** and scale on **Kubernetes**, with health checks, resource limits, and clean multi-stage builds baked into every project.
-- 🗄️ **Data layer fluency:** Comfortable moving between relational (**PostgreSQL**, SQL) and document-oriented (**MongoDB** via **Mongoose**) databases — picking the right tool for the shape of the data, not just the familiar one.
-- 💻 **Learning path:** Currently deepening backend fluency across **C → JavaScript → Go**, with Python and Linux administration running in parallel.
-- 🎯 **Vision:** Growing into a tech entrepreneur — turning complex, messy problems into simple, user-centric products.
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🚀
+**Full-Stack**
+End-to-end delivery — schema to shipped UI.
+
+</td>
+<td width="25%" align="center">
+
+### 🔐
+**Security-First**
+JWT, bcrypt, OWASP baked in, not bolted on.
+
+</td>
+<td width="25%" align="center">
+
+### 🐳
+**Cloud-Native**
+Docker images, Kubernetes-ready by default.
+
+</td>
+<td width="25%" align="center">
+
+### 🗄️
+**Polyglot Data**
+PostgreSQL & MongoDB, whichever fits the shape.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -150,6 +203,9 @@ Every project ships with a `Dockerfile`, sensible environment separation, and �
   </a>
   <a href="https://www.linkedin.com/in/saeed-mohamed-essa-507153384/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/sac11d/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://github.com/engsac11d">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
