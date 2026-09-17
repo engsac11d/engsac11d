@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saeed%20Mohamed%20Essa&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%7C%20Cloud-Native%20%7C%20Security-Minded%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,25:203A43,50:2C5364,75:00566E,100:00F7FF&height=250&section=header&text=Saeed%20Mohamed%20Essa&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=34&desc=Full-Stack%20%7C%20Cloud-Native%20%7C%20Security-Minded%20Engineer&descAlignY=54&descSize=18" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+CS+Student;Cloud-Native+%26+Container-First+Engineering;C+%E2%86%92+JavaScript%2FTypeScript+%E2%86%92+Go+%E2%86%92+Python;Docker+%2B+Kubernetes+%2B+PostgreSQL+%2B+MongoDB;Open+to+Remote+Opportunities+%F0%9F%8C%8D" />
 
@@ -91,6 +91,10 @@ PostgreSQL & MongoDB, whichever fits the shape.
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,50:203A43,100:2C5364&height=6&width=1000" />
+</div>
+
 ## ğŸ› ï¸ Tech Stack
 
 <div align="center">
@@ -141,6 +145,10 @@ PostgreSQL & MongoDB, whichever fits the shape.
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2C5364,50:203A43,100:0F2027&height=6&width=1000" />
+</div>
+
 ## ğŸ—ï¸ How I Build
 
 <div align="center">
@@ -162,6 +170,10 @@ Every project ships with a `Dockerfile`, sensible environment separation, and â€
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,50:203A43,100:2C5364&height=6&width=1000" />
+</div>
+
 ## ğŸ“ Certifications
 
 <div align="center">
@@ -170,6 +182,10 @@ Every project ships with a `Dockerfile`, sensible environment separation, and â€
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2C5364,50:203A43,100:0F2027&height=6&width=1000" />
+</div>
 
 ## ğŸ“Š GitHub Stats
 
@@ -191,6 +207,10 @@ Every project ships with a `Dockerfile`, sensible environment separation, and â€
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,50:203A43,100:2C5364&height=6&width=1000" />
+</div>
 
 ## ğŸŒ Connect With Me
 
@@ -215,5 +235,5 @@ Every project ships with a `Dockerfile`, sensible environment separation, and â€
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,25:00566E,50:2C5364,75:203A43,100:0F2027&height=150&section=footer&animation=twinkling" />
 </div>
