@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Saeed%20Mohamed%20Essa&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Security-Minded%20%7C%20Multilingual%20Engineer&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Saeed%20Mohamed%20Essa&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%7C%20Cloud-Native%20%7C%20Security-Minded%20Engineer&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+CS+Student;Building+secure-by-design+software;C+%E2%86%92+JavaScript+%E2%86%92+Go+%E2%86%92+Python;Open+to+Remote+Opportunities+🌍" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+CS+Student;Cloud-Native+%26+Container-First+Engineering;C+%E2%86%92+JavaScript%2FTypeScript+%E2%86%92+Go+%E2%86%92+Python;Docker+%2B+Kubernetes+%2B+PostgreSQL+%2B+MongoDB;Open+to+Remote+Opportunities+%F0%9F%8C%8D" />
 
 <img src="https://komarev.com/ghpvc/?username=engsac11d&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based%20in-Somalia%20🇸🇴-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Languages-SO%20%7C%20AR%20%7C%20EN-orange?style=for-the-badge" />
 
 </div>
 
@@ -19,21 +20,21 @@ whoami:
   name: "Saeed Mohamed Essa"
   role: "Full-Stack Developer & Computer Science Student"
   university: "Jamhuriya University — B.Sc. Computer Science (Expected 2030)"
-  focus: ["Secure-by-design backend systems", "Full-stack web apps", "API architecture"]
-  currently_learning: ["Node.js (Advanced)", "Go", "Linux System Administration"]
+  focus: ["Secure-by-design backend systems", "Cloud-native full-stack apps", "API architecture"]
+  currently_learning: ["Node.js (Advanced)", "Go", "Kubernetes", "Linux System Administration"]
   certifications: ["CCNA: Introduction to Networks — Cisco"]
   languages_spoken: ["Somali (Native)", "Arabic (Native)", "English (B2)"]
   languages_coded: ["JavaScript/TypeScript", "Python", "C", "Go"]
-  interests: ["System architecture", "OWASP Top 10", "Gaming", "Tech entrepreneurship"]
+  interests: ["System architecture", "OWASP Top 10", "DevOps & orchestration", "Tech entrepreneurship"]
   fun_fact: "Believe great software is judged by what breaks it, not just what it builds."
 ```
 
-- 🚀 **Background:** Full-stack programmer and CS student building end-to-end digital solutions, from database schema to deployed UI.
-- 🔐 **Security-first mindset:** I write code with OWASP Top 10, JWT auth, bcrypt hashing, and Docker fundamentals in mind — not bolted on afterward.
-- 💻 **Learning path:** Currently deepening my backend fluency across **C → JavaScript → Go**, with Python and Linux administration running in parallel.
-- 🌱 **What I'm building:** Scalable full-stack web apps and clean API architectures with real client-server integration discipline.
+- 🚀 **Background:** Full-stack programmer and CS student building end-to-end digital solutions — from database schema to containerized, orchestrated deployment.
+- 🔐 **Security-first mindset:** I write code with OWASP Top 10, JWT auth, bcrypt hashing, and container-hardening fundamentals in mind — not bolted on afterward.
+- 🐳 **Cloud-native by default:** I design services to run in **Docker** and scale on **Kubernetes**, with health checks, resource limits, and clean multi-stage builds baked into every project.
+- 🗄️ **Data layer fluency:** Comfortable moving between relational (**PostgreSQL**, SQL) and document-oriented (**MongoDB** via **Mongoose**) databases — picking the right tool for the shape of the data, not just the familiar one.
+- 💻 **Learning path:** Currently deepening backend fluency across **C → JavaScript → Go**, with Python and Linux administration running in parallel.
 - 🎯 **Vision:** Growing into a tech entrepreneur — turning complex, messy problems into simple, user-centric products.
-- ⚡ **Off the clock:** Gaming, dissecting system architectures, and tracking where the industry is heading next.
 
 <br/>
 
@@ -47,6 +48,7 @@ whoami:
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 ### Frontend
@@ -62,11 +64,18 @@ whoami:
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
-### Databases & Infra
+### Databases
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+### DevOps & Infrastructure
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -76,6 +85,27 @@ whoami:
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </div>
+
+<br/>
+
+## 🏗️ How I Build
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A[Client / React·Next.js] -->|REST / JWT| B(Node.js + Express API)
+    B --> C[(PostgreSQL)]
+    B --> D[(MongoDB + Mongoose)]
+    B --> E[Docker Image]
+    E --> F[Kubernetes Cluster]
+    F --> G[Nginx Ingress]
+    G --> A
+```
+
+</div>
+
+Every project ships with a `Dockerfile`, sensible environment separation, and — where it matters — Kubernetes manifests (Deployment, Service, Ingress) so what runs on my machine is the same thing that runs in production.
 
 <br/>
 
@@ -101,6 +131,10 @@ whoami:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=engsac11d&theme=tokyo-night&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=engsac11d&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
