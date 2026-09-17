@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Go-blue?style=for-the-badge&logo=Node.js" />
 </div>
 
 ### 🌐 Frontend Development
